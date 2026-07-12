@@ -1,5 +1,7 @@
 # Latent Reasoning Directions (LRD)
 
+We are still working on this.
+
 Learn **compact, input-dependent reasoning direction vectors** that steer a frozen base LM toward the correct reasoning mode for a given question. The direction is encoded from the question's hidden states, injected as a soft prefix token, and shaped by three auxiliary losses (contrastive InfoNCE, prototype classification, norm regularization) during fine-tuning.
 
 ## Technological Setup
