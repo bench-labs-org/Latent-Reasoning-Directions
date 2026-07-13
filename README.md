@@ -1,4 +1,5 @@
 # Latent Reasoning Directions (LRD)
+<img width="1200" height="600" alt="image" src="https://github.com/user-attachments/assets/78784495-f8fb-4005-a9cb-77598c0d88c8" />
 
 We are still working on this.
 
